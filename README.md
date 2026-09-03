@@ -1,5 +1,3 @@
-# kf-ga.github.
+# kf-ga.github.io
 
-Web pro předmět Webové Aplikace vyučovaným na Gymnáziu Arabská
-
-Autor: Kamil Foltin
+nothing here to see
